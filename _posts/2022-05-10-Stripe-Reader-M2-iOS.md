@@ -5,8 +5,6 @@
  categories: stripe
 ---
  
-# Stripe: Accept in-person payments using Reader M2 - iOS
-
 Hey Readers, In this tutorial we are looking into the Integration of Stripe’s In-Person Payment using Stripe Reader M2. Below are the quick overview of steps, we will be following.
 
 ### Steps Overview:
